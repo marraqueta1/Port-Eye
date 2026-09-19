@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['bent', 'broken', 'crack', 'dent', 'hole', 'rust', 'scratch', 'weld_damage']
+
+roboflow:
+  workspace: daniel-jc3hd
+  project: container-damage-aeiq9-e1vay
+  version: dataset
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/daniel-jc3hd/container-damage-aeiq9-e1vay/dataset/dataset
