@@ -13,3 +13,6 @@ Abra una terminal y clone este repositorio en su máquina local (o descárguelo 
 ```bash
 git clone [https://github.com/TU_USUARIO/port-eye-lab2.git](https://github.com/TU_USUARIO/port-eye-lab2.git)
 cd port-eye-lab2
+```
+### Paso 2: Abrir el proyecto
+Usar Visual Studio Code 
