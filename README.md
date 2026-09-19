@@ -11,8 +11,8 @@ Siga estos pasos para preparar el entorno y ejecutar el código localmente:
 ### Paso 1: Clonar el repositorio
 Abra una terminal y clone este repositorio en su máquina local (o descárguelo como archivo ZIP y extráigalo):
 ```bash
-git clone [https://github.com/TU_USUARIO/port-eye-lab2.git](https://github.com/TU_USUARIO/port-eye-lab2.git)
-cd port-eye-lab2
+git clone [https://github.com/marraqueta1/Port-Eye.git](https://github.com/marraqueta1/Port-Eye.git)
+cd Port-Eye
 ```
 ### Paso 2: Abrir el proyecto
 Usar Visual Studio Code 
