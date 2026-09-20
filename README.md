@@ -28,4 +28,5 @@ En VS Code colocamos SHIFT+CTRL+X para abrir las extensiones, escribimos e insta
 
 ### Paso 5: Ejecutar código
 Abrimos el archivo proyectoPortEye.ipynb, en la esquina superior derecha debemos seleccionar el entorno de Python donde se acaba de instalar las depencias.
+
 Ya teniendo todo listo debemos hacer click en Run All o Ejecutar todo.
